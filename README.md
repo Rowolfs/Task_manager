@@ -1,6 +1,4 @@
-# task_manager
-
-A new Flutter project.
+# Study building task manager project
 
 ## Getting Started
 
