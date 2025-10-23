@@ -6,6 +6,9 @@ import 'package:task_manager/widgets/exec_customer_home.dart';
 import 'package:task_manager/widgets/manager_home.dart';
 
 
+// Очень важное изменение
+
+
 void main() {
   // демо-аккаунт просто добавим в список для “быстрого выбора”
   Credentials.addOrUpdate(const Credentials(
